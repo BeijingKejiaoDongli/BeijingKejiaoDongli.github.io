@@ -3,9 +3,9 @@
 
 <h3><strong><a href="https://beijingkejiaodongli.github.io/forAuthor" target="_blank" rel="noopener">For Authors</a></strong></h3>
 
-<h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/forlanguageeditors/" target="_blank" rel="noopener">For Language Editors</a></strong></h3>
+<h3><strong><a href="https://beijingkejiaodongli.github.io/forLe" target="_blank" rel="noopener">For Language Editors</a></strong></h3>
 
-<h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/for-managing-editors/" target="_blank" rel="noopener">For Managing Editors</a></strong></h3>
+<h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/forMe/" target="_blank" rel="noopener">For Managing Editors</a></strong></h3>
 
 <h3 style="text-align: justify;"><strong><span style="color: #ff00ff;"><span style="color: #339966;">About -</span> </span>We are a team of Professors who wish to provide English language editing for your journal articles, grant applications, theses, dissertations and other scientific documents. <a href="http://sites.bu.edu/cliveg/gailunwen/about/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
