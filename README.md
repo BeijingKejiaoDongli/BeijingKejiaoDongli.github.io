@@ -7,7 +7,7 @@
 
 <h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/forMe/" target="_blank" rel="noopener">For Managing Editors</a></strong></h3>
 
-<h3 style="text-align: justify;"><strong><span style="color: #ff00ff;"><span style="color: #339966;">About -</span> </span>We are a team of Professors who wish to provide English language editing for your journal articles, grant applications, theses, dissertations and other scientific documents. <a href="http://sites.bu.edu/cliveg/gailunwen/about/" target="_blank" rel="noopener">More ...</a></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #ff00ff;"><span style="color: #339966;">About -</span> </span>We are a team of Professors who wish to provide English language editing for your journal articles, grant applications, theses, dissertations and other scientific documents. <a href="https://beijingkejiaodongli.github.io/about/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
 <h3 style="text-align: justify;"><strong><span style="color: #ff00ff;"><span style="color: #339966;">Why us - </span></span></strong>Unlike other English language editing companies, we are active researchers performing research and publishing in scientific journals just like you <a href="http://sites.bu.edu/cliveg/people/professors/prof-ranga-b-myneni/" target="_blank" rel="noopener">(an example)</a>. Importantly, we provide and encourage active interaction between the Editors and the Authors through video (e.g. Skype). This helps Authors understand why the corrections have been made. Our goal is help improve Author’s writing skills through the services we provide.</h3>
 
