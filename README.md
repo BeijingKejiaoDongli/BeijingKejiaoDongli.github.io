@@ -19,7 +19,7 @@
 
 <h3 style="text-align: justify;"><strong><span style="color: #339966;">Managing Editors -</span> Managing Editors include Professors and Senior Researchers from prestigious universities and research institutions in U.S. and Europe. Managing Editors are typically paid up to 10% of the total charge for processing an article. <a href="https://beijingkejiaodongli.github.io/forMe/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
-<h3 style="text-align: justify;"><strong><span style="color: #339966;">Confidentiality &amp; Quality -</span> We guarantee confidential handling of your documents and provide you the highest quality of service as we are all academics, scientists and researchers just like you. <a href=" http://sites.bu.edu/cliveg/gailunwen/confidentiality-quality/" target="_blank" rel="noopener">More ...</a></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #339966;">Confidentiality &amp; Quality -</span> We guarantee confidential handling of your documents and provide you the highest quality of service as we are all academics, scientists and researchers just like you. <a href="https://beijingkejiaodongli.github.io/Confident" target="_blank" rel="noopener">More ...</a></strong></h3>
 
 <h3 style="text-align: justify;"><strong><span style="color: #339966;">Referrals - </span>If you refer an author to submit a paper for processing by us, we pay you typically up to 10% of the total charge for processing an article. </strong></h3>
 
