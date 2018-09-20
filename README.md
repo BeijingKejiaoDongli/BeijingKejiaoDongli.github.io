@@ -1,7 +1,7 @@
 # BeijingKejiaoDongli.github.io
 <img src="http://sites.bu.edu/cliveg/files/2018/09/banner.jpg" class="alignright" />
 
-<h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/for-authors/" target="_blank" rel="noopener">For Authors</a></strong></h3>
+<h3><strong><a href="https://beijingkejiaodongli.github.io/forauthor/" target="_blank" rel="noopener">For Authors</a></strong></h3>
 
 <h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/forlanguageeditors/" target="_blank" rel="noopener">For Language Editors</a></strong></h3>
 
