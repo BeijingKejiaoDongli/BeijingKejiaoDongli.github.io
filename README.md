@@ -5,7 +5,7 @@
 
 <h3><strong><a href="https://beijingkejiaodongli.github.io/forLe" target="_blank" rel="noopener">For Language Editors</a></strong></h3>
 
-<h3><strong><a href="http://sites.bu.edu/cliveg/gailunwen/forMe/" target="_blank" rel="noopener">For Managing Editors</a></strong></h3>
+<h3><strong><a href="https://beijingkejiaodongli.github.io/forMe/" target="_blank" rel="noopener">For Managing Editors</a></strong></h3>
 
 <h3 style="text-align: justify;"><strong><span style="color: #ff00ff;"><span style="color: #339966;">About -</span> </span>We are a team of Professors who wish to provide English language editing for your journal articles, grant applications, theses, dissertations and other scientific documents. <a href="https://beijingkejiaodongli.github.io/about/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
@@ -15,9 +15,9 @@
 
 <h3 style="text-align: justify;"><strong><span style="color: #339966;">Pricing &amp; Processing Times -</span> The charge for correcting and polishing the English language of your scientific document depends on the level of service it needs and the length of the document (in words). <a href="http://sites.bu.edu/cliveg/gailunwen/pricing-processing/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
-<h3 style="text-align: justify;"><strong><span style="color: #339966;">Language Editors -</span>  Researchers, Post-doctoral Fellows and Graduate Students (Masters and Doctorate) at prestigious U.S. and West European universities and research institutions.  Language Editor are typically paid up to 40% of the total charge for processing an article. <a href="http://sites.bu.edu/cliveg/gailunwen/languageeditors/" target="_blank" rel="noopener">More ...</a></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #339966;">Language Editors -</span>  Researchers, Post-doctoral Fellows and Graduate Students (Masters and Doctorate) at prestigious U.S. and West European universities and research institutions.  Language Editor are typically paid up to 40% of the total charge for processing an article. <a href="https://beijingkejiaodongli.github.io/forLe" target="_blank" rel="noopener">More ...</a></strong></h3>
 
-<h3 style="text-align: justify;"><strong><span style="color: #339966;">Managing Editors -</span> Managing Editors include Professors and Senior Researchers from prestigious universities and research institutions in U.S. and Europe. Managing Editors are typically paid up to 10% of the total charge for processing an article. <a href="http://sites.bu.edu/cliveg/gailunwen/managing-editors/" target="_blank" rel="noopener">More ...</a></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #339966;">Managing Editors -</span> Managing Editors include Professors and Senior Researchers from prestigious universities and research institutions in U.S. and Europe. Managing Editors are typically paid up to 10% of the total charge for processing an article. <a href="https://beijingkejiaodongli.github.io/forMe/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
 <h3 style="text-align: justify;"><strong><span style="color: #339966;">Confidentiality &amp; Quality -</span> We guarantee confidential handling of your documents and provide you the highest quality of service as we are all academics, scientists and researchers just like you. <a href=" http://sites.bu.edu/cliveg/gailunwen/confidentiality-quality/" target="_blank" rel="noopener">More ...</a></strong></h3>
 
