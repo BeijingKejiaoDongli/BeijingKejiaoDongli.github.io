@@ -1,4 +1,4 @@
-# BeijingKejiaoDongli.github.io
+
 <img src="http://sites.bu.edu/cliveg/files/2018/09/banner.jpg" class="alignright" />
 
 <h3><strong><a href="https://beijingkejiaodongli.github.io/forAuthor" target="_blank" rel="noopener">For Authors</a></strong></h3>
