@@ -1,4 +1,4 @@
-<img src="http://sites.bu.edu/cliveg/files/2018/09/banner.jpg" class="aligncenter" width="906" height="181" />
+<img src="https://beijingkejiaodongli.github.io/banner.jpg" class="aligncenter" width="906" height="181" />
 
 <h2 style="text-align: justify;"><span style="color: #339966;">Frequently Asked Questions -</span></h2>
 
