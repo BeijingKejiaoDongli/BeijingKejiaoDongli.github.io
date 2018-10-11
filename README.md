@@ -1,5 +1,5 @@
 
-<img src="http://sites.bu.edu/cliveg/files/2018/09/banner.jpg" class="alignright" />
+<img src="https://beijingkejiaodongli.github.io/banner.jpg" class="alignright" />
 
 <h3><strong><a href="https://beijingkejiaodongli.github.io/forAuthor" target="_blank" rel="noopener">For Authors</a></strong></h3>
 
@@ -17,7 +17,7 @@
 
 <h3 style="text-align: justify;"><strong><span style="color: #339966;">Language Editors -</span>  Researchers, Post-doctoral Fellows and Graduate Students (Masters and Doctorate) at prestigious U.S. and West European universities and research institutions.  Language Editor are typically paid up to 40% of the total charge for processing an article. <a href="https://beijingkejiaodongli.github.io/forLe" target="_blank" rel="noopener">More ...</a></strong></h3>
 
-<h3 style="text-align: justify;"><strong><span style="color: #339966;">Managing Editors -</span> Managing Editors include Professors and Senior Researchers from prestigious universities and research institutions in U.S. and Europe. Managing Editors are typically paid up to 10% of the total charge for processing an article. <a href="https://beijingkejiaodongli.github.io/forMe/" target="_blank" rel="noopener">More ...</a></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #339966;">Managing Editors -</span> Managing Editors include Professors and Senior Researchers from prestigious universities and research institutions in U.S. and Europe. Managing Editors are typically paid up to 10% of the total charge for processing an article. <a href="https://beijingkejiaodongli.github.io/forMe" target="_blank" rel="noopener">More ...</a></strong></h3>
 
 <h3 style="text-align: justify;"><strong><span style="color: #339966;">Confidentiality &amp; Quality -</span> We guarantee confidential handling of your documents and provide you the highest quality of service as we are all academics, scientists and researchers just like you. <a href="https://beijingkejiaodongli.github.io/Confident" target="_blank" rel="noopener">More ...</a></strong></h3>
 
