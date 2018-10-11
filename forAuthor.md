@@ -8,7 +8,7 @@ For Authors -</span> </strong></h2>
 
 <ul>
 
-            <li><a href="http://sites.bu.edu/cliveg/files/2018/09/Service-Level-Choice-7.pdf" target="_blank" rel="noopener">download this form</a></li>
+            <li><a href="https://beijingkejiaodongli.github.io/Service-Level-Choice.pdf" target="_blank" rel="noopener">download this form</a></li>
 
             <li>fill the form</li>
 
@@ -28,7 +28,7 @@ For Authors -</span> </strong></h2>
 
 <ul>
 
-            <li><a href="http://sites.bu.edu/cliveg/files/2018/09/Author-Registration-4.pdf" target="_blank" rel="noopener">download this form</a></li>
+            <li><a href="https://beijingkejiaodongli.github.io/Author-Registration.pdf" target="_blank" rel="noopener">download this form</a></li>
 
             <li>fill the form</li>
 
@@ -42,7 +42,7 @@ For Authors -</span> </strong></h2>
 
 <strong>Here is an example of <a href="http://sites.bu.edu/cliveg/files/2018/09/AU-How-It-Works.png" target="_blank" rel="noopener"><strong>How it Works</strong>
 
-<img src="http://sites.bu.edu/cliveg/files/2018/09/AU-How-It-Works.png" /></a>
+<img src="https://beijingkejiaodongli.github.io/AU-How-It-Works.png" /></a>
 
  
 
