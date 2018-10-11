@@ -1,4 +1,4 @@
-<img src="http://sites.bu.edu/cliveg/files/2018/09/banner.jpg" class="alignright" />
+<img src="https://beijingkejiaodongli.github.io/banner.jpg" class="alignright" />
 
 <h2><strong><span style="color: #339966;">How It Works -</span> </strong></h2>
 
@@ -14,7 +14,7 @@ Simply put, this is how it works:
 
             <li>Pay the invoice</li>
 
-            <li>Corrected documented sent back within 5- 10 days depending on the <a href="http://sites.bu.edu/cliveg/gailunwen/pricing-processing/" target="_blank" rel="noopener">Service Level Chosen</a><span style="color: #339966;"></span></li>
+            <li>Corrected documented sent back within 5- 10 days depending on the <a href="hhttps://beijingkejiaodongli.github.io/pricing-processing/" target="_blank" rel="noopener">Service Level Chosen</a><span style="color: #339966;"></span></li>
 
             <li>Authors gets to interact (video chat) with the Editors to understand the changes made to the article</li>
 
@@ -26,7 +26,7 @@ Simply put, this is how it works:
 
 Here is a detailed scheme of <a href="http://sites.bu.edu/cliveg/files/2018/09/how-it-works-4.png" target="_blank" rel="noopener">how it all works
 
-<img src="http://sites.bu.edu/cliveg/files/2018/09/how-it-works-4.png" /></a>
+<img src="https://beijingkejiaodongli.github.io/how-it-works.png" /></a>
 
 <h3><strong><a href="https://beijingkejiaodongli.github.io/">Home</a></strong></h3>
 
