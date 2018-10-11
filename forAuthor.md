@@ -46,6 +46,6 @@ For Authors -</span> </strong></h2>
 
  
 
-<h3><strong><a href="www.pandaedit.com">Home</a></strong></h3>
+<h3><strong><a href="https://beijingkejiaodongli.github.io">Home</a></strong></h3>
 
 <p style="text-align: right;"><strong> </strong></p>
