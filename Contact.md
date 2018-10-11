@@ -1,4 +1,4 @@
-<img src="http://sites.bu.edu/cliveg/files/2018/09/banner.jpg" class="alignright" />
+<img src="https://beijingkejiaodongli.github.io/banner.jpg" class="alignright" />
 
 <h2><strong><span style="color: #339966;">Contact Us -</span> </strong></h2>
 
