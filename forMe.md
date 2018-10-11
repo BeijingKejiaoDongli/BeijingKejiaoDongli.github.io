@@ -6,7 +6,7 @@
 
 <ul>
 
-            <li><a href="http://sites.bu.edu/cliveg/files/2018/09/ME-Registration.pdf" target="_blank" rel="noopener">download this form</a></li>
+            <li><a href="https://beijingkejiaodongli.github.io/ME-Registration.pdf" target="_blank" rel="noopener">download this form</a></li>
 
             <li>fill the form</li>
 
@@ -22,9 +22,9 @@
 
 </ul>
 
-Here is an example of the role of <a href="http://sites.bu.edu/cliveg/files/2018/09/ME-How-It-Works-2.png" target="_blank" rel="noopener"><strong>Managing Editors </strong>
+Here is an example of the role of <a href="https://beijingkejiaodongli.github.io/ME-How-It-Works-2.png" target="_blank" rel="noopener"><strong>Managing Editors </strong>
 
-<img src="http://sites.bu.edu/cliveg/files/2018/09/ME-How-It-Works-2.png" /></a>
+<img src="https://beijingkejiaodongli.github.io/ME-How-It-Works-2.png" /></a>
 
 <h3><strong><a href="https://beijingkejiaodongli.github.io">Home</a></strong></h3>
 
