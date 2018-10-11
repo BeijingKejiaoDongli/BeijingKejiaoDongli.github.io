@@ -68,17 +68,17 @@ College of Resource and Environment, Huazhong Agricultural University, Wuhan, Ch
 
 <tr>
 
-<td><b>Prof. Kai Yan</b>
+<td><b>Prof. Kevin Yan</b>
 
-Dept. of Land Science and Technology, China University of Geosciences, Beijing, China
+China University of Geosciences
 
-<a href="http://ramm.bnu.edu.cn/index.php/people?id=38" target="_blank" rel="noopener">Website</a></td>
+</td>
 
-<td><b>Prof. Zaichun Zhu</b>
+<td><b>Prof. David Zhu</b>
 
-School of Urban Planning and Design, Shenzhen Graduate School, Peking University, China
+Peking University, China
 
-<a href="http://urban.pkusz.edu.cn/2018/fulltime_0829/195.html" target="_blank" rel="noopener">Website</a></td>
+</td>
 
 </tr>
 
